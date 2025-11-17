@@ -5,3 +5,5 @@ bcrypt
 python-docx
 lottie
 matplotlib
+pymupdf
+
