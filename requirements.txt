@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+bcrypt
+python-docx
+lottie
+matplotlib
